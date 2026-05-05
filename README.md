@@ -1,8 +1,25 @@
 # ogtrailcafewebsite
 I am creating a website for my cafe Og trail. It will be my first website development project using Claude AI. :) 
 
-## 🗓️ Project Roadmap – Og Trail Café
+**Tech Stack:** Python · Flask · HTML · CSS · SQLite · Git · GitHub
 
+
+1. Clone the repository  
+   ```bash
+   git clone [github.com](https://github.com/)<your-username>/ogtrailcafewebsite.git
+   cd ogtrailcafewebsite
+
+2. Create a virtual environment
+   python -m venv venv
+   source venv/bin/activate  # or venv\Scripts\activate on Windows
+   pip install -r requirements.txt
+
+ 3. Run the server
+    python app.py
+
+
+
+## 🗓️ Project Roadmap – Og Trail Café## Setup Instructions
 ### Week 1 – Setup & First Flask App
 - [ ] Install Python 3, VS Code, Git  
 - [ ] Create virtual environment and install Flask  
